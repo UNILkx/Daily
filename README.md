@@ -8,7 +8,9 @@
 
 ## 如何创建新分支
 
-新建的文件夹需要与远程仓库连接，并创建对应分支。每个文件夹的初次操作流程如下：
+新建的文件夹需要与远程仓库连接，并创建对应分支。
+
+每个文件夹的初次操作流程如下：(本仓库远程命名为“Daily”)
 
 1. 初始化
 
@@ -16,7 +18,7 @@
 
 2. 与远程仓库建立联系
 
-   >git remote add origin https://gitee.com/Lkx316/coding_train.git
+   >git remote add Daily git@github.com:UNILkx/Daily.git
 
 3. 本地切换分支
 
@@ -36,4 +38,4 @@
 
 6. git push 并远程创建与本地
 
-   > git push --set-upstream origin dir_name
+   > git push --set-upstream Daily dir_name
