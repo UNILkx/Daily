@@ -4,7 +4,8 @@
 
 - main
 - luogu
-- normal_work
+- lanqiao
+- normal_record
 
 ## 如何创建新分支
 
