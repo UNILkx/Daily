@@ -2,7 +2,7 @@
 
 ## 各个目录情况
 
-- master
+- main
 - luogu
 - normal_work
 
