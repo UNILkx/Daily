@@ -5,9 +5,11 @@
 - main
 - luogu
 - lanqiao
-- normal_record
+- leetcode
 - LLM
+- normal_record
 - python
+- 
 
 ## 如何创建新分支
 
