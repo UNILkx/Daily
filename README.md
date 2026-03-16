@@ -6,6 +6,8 @@
 - luogu
 - lanqiao
 - normal_record
+- LLM
+- python
 
 ## 如何创建新分支
 
